@@ -33,6 +33,10 @@ You can either:
    #include "VoiceRecognitionV3.h"
    // becomes:
    #include "VoiceRecognitionV3_ESP32.h"
+   
+   //Remove:
+   #include <SoftwareSerial.h>
+
    ```
 
 2. Update the RX and TX pins to match your ESP32 setup:
