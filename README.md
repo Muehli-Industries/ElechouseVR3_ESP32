@@ -12,8 +12,8 @@
 
 1. Create a folder named `VoiceRecognitionV3_ESP32` inside your [Arduino libraries folder](https://docs.arduino.cc/retired/hacking/software/Libraries/).
 2. Download the following files from this repository:
-   - `VoiceRecognitionV3_ESP32.h`
-   - `VoiceRecognitionV3_ESP32.cpp`
+   - `lib/VoiceRecognitionV3_ESP32.h`
+   - `lib/VoiceRecognitionV3_ESP32.cpp`
 3. Copy both files into the newly created folder.
 
 ---
